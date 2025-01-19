@@ -1,0 +1,1 @@
+console.log('Estou no 1 dia, aprendi o inicio de git')
